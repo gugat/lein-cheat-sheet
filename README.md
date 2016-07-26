@@ -6,6 +6,6 @@
 
     lein test
 
-### Run specfic tests namespace
+### Run specific tests namespace
 
     lein test :only myns.person.bill-test
